@@ -1,0 +1,11 @@
+*.DS_Store
+*sessions/
+*node_modules/
+*package-lock.json
+*-cache.json
+*-stats.json
+**/logs/
+*auth.json
+models.json
+node_modules
+sessionsauth.json

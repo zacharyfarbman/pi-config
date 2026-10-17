@@ -1,0 +1,9 @@
+{
+  "lastChangelogVersion": "0.85.1",
+  "theme": "dark",
+  "defaultProvider": "openrouter",
+  "defaultModel": "moonshotai/kimi-k3",
+  "packages": [
+    "git:github.com/amosblomqvist/pi-dictate"
+  ]
+}
